@@ -1,0 +1,33 @@
+
+.navbar {
+
+    background-color:rgb(115, 0, 0);
+
+}
+
+.quem-somos {
+
+    background-color: rgb(155, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
+
+.parceiros {
+
+    background-color: rgb(115, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
+
+.servicos {
+
+    background-color: rgb(155, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
+.bg-footer {
+
+    background-color: white;
+    text-align: center;
+    color: black;
+}
